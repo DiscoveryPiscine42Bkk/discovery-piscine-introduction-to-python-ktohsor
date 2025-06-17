@@ -1,4 +1,3 @@
-first_name = "kunnadda"
-last_name = "tohsor"
-whole_name = first_name+" "+last_name
-print(whole_name) 
+first_name = input("Hey, what's your first naame? " )
+last_name = input("And your last name? " )
+print(f"well , pleased to meet you, {first_name}{last_name}")
